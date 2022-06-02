@@ -1,0 +1,14 @@
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:102:5:main	8	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:174:6:SystemClock_Config	88	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:217:13:MX_TIM2_Init	48	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:270:13:MX_TIM3_Init	64	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:329:13:MX_TIM4_Init	48	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:382:13:MX_GPIO_Init	40	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:410:6:print_to_com_port	120	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:416:9:vol_is_in_range	24	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:419:6:vol_calibrate_antenna	24	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:433:6:vol_play_hw	16	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:440:6:test_volume_servo	16	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:446:6:vol_play	16	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:484:6:HAL_TIM_IC_CaptureCallback	24	static
+C:/Users/Suz/STM32/volume_stm/Core/Src/main.c:550:6:Error_Handler	4	static,ignoring_inline_asm
